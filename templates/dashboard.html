@@ -1,0 +1,119 @@
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body style="background-color: white">
+     <p style="color: black">Welcome to my dashboard, {{ Name }}!</p>
+    <table style="width:100%">
+  <tr>
+    <th>Cryptocurrencies</th>
+    <th>The current price on Binance</th>
+    <th>The balance of algo training</th>
+  </tr>
+  <tr>
+    <td>Bitcoin (BTC)</td>
+    <td>{{ BTCUSDTprice }} USDT</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Ethereum (ETH)</td>
+    <td>{{ ETHUSDTprice }} USDT</td>
+    <td>{{ cryptoBalanceLatest }} USDT</td>
+  </tr>
+</table>
+
+<p style="color: black">Control of mock trading. </p>
+        <table style="width:100%">
+  <tr>
+    <th>Cryptocurrencies</th>
+    <th>Mock trading of MACD</th>
+    <th>Mock trading of Martingale</th>
+  </tr>
+  <tr>
+    <td>Bitcoin (BTC)</td>
+    <td>N/A</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Ethereum (ETH)</td>
+    <td>
+      <form>
+  <input type="radio" id="on" name="mockMACD" value="On">
+  <label for="on">On</label>
+  <input type="radio" id="off" name="mockMACD" value="Off">
+  <label for="off">Off</label><br>
+  <button type="submit">Update</button>
+</form> 
+    </td>
+    <td>On</td>
+  </tr>
+</table>
+  <p style="color: black">Line chart of the Cryptocurrencies on Binance.com. </p>
+      <table style="width:100%">
+  <tr>
+    <th>Cryptocurrencies</th>
+    <th>Line chart of price within 1000 hours</th>
+    <th>Line chart of price within 1000 days</th>
+  </tr>
+  <tr>
+    <td>Bitcoin (BTC)</td>
+    <td>Click here</td>
+    <td>Click here</td>
+  </tr>
+  <tr>
+    <td>Ethereum (ETH)</td>
+    <td>Click here</td>
+    <td>Click here</td>
+  </tr>
+</table>
+  <p style="color: black">Line chart of the balance. </p>
+      <table style="width:100%">
+  <tr>
+    <th>Cryptocurrencies</th>
+    <th>The total balance</th>
+    <th>The balance of MACD</th>
+    <th>The balance of Martingale</th>
+  </tr>
+  <tr>
+    <td>Bitcoin (BTC)</td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Ethereum (ETH)</td>
+    <td>Click here</td>
+    <td>Click here</td>
+    <td>Click here</td>
+  </tr>
+</table>
+    <p style="color: black">The back-testing results of Bitcoin and Ethereum. </p>
+      <table style="width:100%">
+  <tr>
+    <th>Cryptocurrencies</th>
+    <th>SMA</th>
+    <th>RSI</th>
+    <th>MACD</th>
+    <th>Martingale</th>
+    <th>Table of all results</th>
+  </tr>
+  <tr>
+    <td>Bitcoin (BTC)</td>
+    <td>Click here</td>
+    <td>Click here</td>
+    <td>Click here</td>
+    <td>Click here</td>
+    <td>Click here</td>
+  </tr>
+  <tr>
+    <td>Ethereum (ETH)</td>
+    <td>Click here</td>
+    <td>Click here</td>
+    <td>Click here</td>
+    <td>Click here</td>
+    <td>Click here</td>
+  </tr>
+</table>
+  
+</body>

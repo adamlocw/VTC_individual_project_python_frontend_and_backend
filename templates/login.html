@@ -1,0 +1,20 @@
+<body style="background-color: black">
+     <p style="color: white">Welcome to my login form, {{ Name }}!</p>
+  <form action="/dashboard" method="post" style="color: white">
+
+  <div class="container">
+        <table style="color: white">
+  <tr>
+    <td><label for="uname">Username</label></td>
+    <td><input type="text" placeholder="Enter Username" name="uname" required></td>
+  </tr>
+  <tr>
+    <td><label for="psw">Password</label></td>
+    <td><input type="password" placeholder="Enter Password" name="psw" required></td>
+  </tr>
+</table>
+    <br/>
+    <button type="submit">Login</button>
+  </div>
+</form>
+</body>
