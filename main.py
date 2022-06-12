@@ -123,7 +123,7 @@ def btc1day():
   for x in onlyDateList:
     labels.append(dt.datetime.fromtimestamp(x/1000.0).strftime('%Y-%m-%d'))
   values = onlyCloseList
-  return render_template("btc1day.html", labels=labels, values=values)
+  return render_template("lineChart.html", labels=labels, values=values, title='Bitcoin last 1000 days line chart from Binance.com. ')
 
 @app.route('/eth1day')
 def eth1day():
@@ -144,7 +144,7 @@ def eth1day():
   for x in onlyDateList:
     labels.append(dt.datetime.fromtimestamp(x/1000.0).strftime('%Y-%m-%d'))
   values = onlyCloseList
-  return render_template("eth1day.html", labels=labels, values=values)
+  return render_template("lineChart.html", labels=labels, values=values, title='Ethereum last 1000 hours line chart from Binance.com. ')
 
 @app.route('/btc1hour')
 def btc1hour():
@@ -165,7 +165,7 @@ def btc1hour():
   for x in onlyDateList:
     labels.append(dt.datetime.fromtimestamp(x/1000.0).strftime('%Y-%m-%d %H:%M'))
   values = onlyCloseList
-  return render_template("btc1hour.html", labels=labels, values=values)
+  return render_template("lineChart.html", labels=labels, values=values, title='Bitcoin last 1000 hours line chart from Binance.com. ')
 
 @app.route('/eth1hour')
 def eth1hour():
@@ -186,6 +186,47 @@ def eth1hour():
   for x in onlyDateList:
     labels.append(dt.datetime.fromtimestamp(x/1000.0).strftime('%Y-%m-%d %H:%M'))
   values = onlyCloseList
-  return render_template("eth1hour.html", labels=labels, values=values)
+  return render_template("lineChart.html", labels=labels, values=values, title='Ethereum last 1000 hours line chart from Binance.com. ')
+
+@app.route('/btcRSI')
+def btcRSI():
+     return render_template('btResults.html', Title='The back-testing results of BTC daily trade using RSI', URL='https://vtcindividualprojectpythonfrontend.adamlo.repl.co/static/BTCRSI.png')
+
+@app.route('/btcSMA')
+def btcSMA():
+     return render_template('btResults.html', Title='The back-testing results of BTC daily trade using SMA', URL='https://vtcindividualprojectpythonfrontend.adamlo.repl.co/static/BTCSMA.png')
+
+@app.route('/btcMACD')
+def btcMACD():
+     return render_template('btResults.html', Title='The back-testing results of BTC daily trade using MACD', URL='https://vtcindividualprojectpythonfrontend.adamlo.repl.co/static/BTCMACD.png')
+
+@app.route('/btcMartingale')
+def btcMartingale():
+     return render_template('btResults.html', Title='The back-testing results of BTC daily trade using Martingale', URL='https://vtcindividualprojectpythonfrontend.adamlo.repl.co/static/BTCMartingale.png')
+
+@app.route('/btcTableResults')
+def btcTableResults():
+     return render_template('btResults.html', Title='The back-testing result comparision of BTC', URL='https://vtcindividualprojectpythonfrontend.adamlo.repl.co/static/BTCTableResults.jpg')
+
+
+@app.route('/ethRSI')
+def ethRSI():
+     return render_template('btResults.html', Title='The back-testing results of Ethereum daily trade using RSI', URL='https://vtcindividualprojectpythonfrontend.adamlo.repl.co/static/ETHRSI.png')
+
+@app.route('/ethSMA')
+def ethSMA():
+     return render_template('btResults.html', Title='The back-testing results of Ethereum daily trade using SMA', URL='https://vtcindividualprojectpythonfrontend.adamlo.repl.co/static/ETHSMA.png')
+
+@app.route('/ethMACD')
+def ethMACD():
+     return render_template('btResults.html', Title='The back-testing results of Ethereum daily trade using MACD', URL='https://vtcindividualprojectpythonfrontend.adamlo.repl.co/static/ETHMACD.png')
+
+@app.route('/ethMartingale')
+def ethMartingale():
+     return render_template('btResults.html', Title='The back-testing results of Ethereum daily trade using Martingale', URL='https://vtcindividualprojectpythonfrontend.adamlo.repl.co/static/ETHMartingale.png')
+
+@app.route('/ethTableResults')
+def ethTableResults():
+     return render_template('btResults.html', Title='The back-testing result comparision of Ethereum', URL='https://vtcindividualprojectpythonfrontend.adamlo.repl.co/static/ETHTableResults.jpg')
 
 app.run(host='0.0.0.0', port=8080)
