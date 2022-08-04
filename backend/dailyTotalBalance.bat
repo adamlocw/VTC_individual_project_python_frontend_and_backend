@@ -1,0 +1,1 @@
+D:\Users\adamlo\Anaconda3\python.exe "D:\Users\adamlo\Documents\VTC\individual_project\code\python\dailyTotalBalance.py" >> daily_total_balance.txt

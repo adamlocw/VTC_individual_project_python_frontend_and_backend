@@ -1,0 +1,1 @@
+D:\Users\adamlo\Anaconda3\python.exe "D:\Users\adamlo\Documents\VTC\individual_project\code\python\macdETH.py" >> daily_ETH_MACD_trade_on_Balance.txt

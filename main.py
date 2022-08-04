@@ -144,7 +144,7 @@ def eth1day():
   for x in onlyDateList:
     labels.append(dt.datetime.fromtimestamp(x/1000.0).strftime('%Y-%m-%d'))
   values = onlyCloseList
-  return render_template("lineChart.html", labels=labels, values=values, title='Ethereum last 1000 hours line chart from Binance.com. ')
+  return render_template("lineChart.html", labels=labels, values=values, title='Ethereum last 1000 days line chart from Binance.com. ')
 
 @app.route('/btc1hour')
 def btc1hour():

@@ -1,0 +1,1 @@
+D:\Users\adamlo\Anaconda3\python.exe "D:\Users\adamlo\Documents\VTC\individual_project\code\python\martingaleETHMock.py" >> hourly_ETH_martingale_trade_on_Mock.txt

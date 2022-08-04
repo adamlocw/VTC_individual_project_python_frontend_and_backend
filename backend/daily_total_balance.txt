@@ -1,0 +1,112 @@
+202
+b''
+Server: nginx
+Date: Sun, 08 May 2022 00:01:04 GMT
+Content-Length: 0
+Connection: close
+X-Message-Id: o0lKmCcnQtepdqi4YJpE2w
+Access-Control-Allow-Origin: https://sendgrid.api-docs.io
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Authorization, Content-Type, On-behalf-of, x-sg-elas-acl
+Access-Control-Max-Age: 600
+X-No-CORS-Reason: https://sendgrid.com/docs/Classroom/Basics/API/cors.html
+Strict-Transport-Security: max-age=600; includeSubDomains
+
+
+62770840385e6fc88b91a983
+202
+b''
+Server: nginx
+Date: Mon, 09 May 2022 00:01:06 GMT
+Content-Length: 0
+Connection: close
+X-Message-Id: C0W44xR-QEmYd4THaE8xYw
+Access-Control-Allow-Origin: https://sendgrid.api-docs.io
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Authorization, Content-Type, On-behalf-of, x-sg-elas-acl
+Access-Control-Max-Age: 600
+X-No-CORS-Reason: https://sendgrid.com/docs/Classroom/Basics/API/cors.html
+Strict-Transport-Security: max-age=600; includeSubDomains
+
+
+627859c15f4719f13a925b38
+202
+b''
+Server: nginx
+Date: Tue, 10 May 2022 00:01:04 GMT
+Content-Length: 0
+Connection: close
+X-Message-Id: gMwsaU-ATti5U6TCINUaQA
+Access-Control-Allow-Origin: https://sendgrid.api-docs.io
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Authorization, Content-Type, On-behalf-of, x-sg-elas-acl
+Access-Control-Max-Age: 600
+X-No-CORS-Reason: https://sendgrid.com/docs/Classroom/Basics/API/cors.html
+Strict-Transport-Security: max-age=600; includeSubDomains
+
+
+6279ab40d799f378b8ee575a
+202
+b''
+Server: nginx
+Date: Wed, 11 May 2022 00:01:04 GMT
+Content-Length: 0
+Connection: close
+X-Message-Id: 5aNxcTSeRaG2FCfu2KNiNw
+Access-Control-Allow-Origin: https://sendgrid.api-docs.io
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Authorization, Content-Type, On-behalf-of, x-sg-elas-acl
+Access-Control-Max-Age: 600
+X-No-CORS-Reason: https://sendgrid.com/docs/Classroom/Basics/API/cors.html
+Strict-Transport-Security: max-age=600; includeSubDomains
+
+
+627afcc014963e6a5ec455f3
+202
+b''
+Server: nginx
+Date: Thu, 12 May 2022 00:01:04 GMT
+Content-Length: 0
+Connection: close
+X-Message-Id: xCjK-DpnRBe1lormdQJifQ
+Access-Control-Allow-Origin: https://sendgrid.api-docs.io
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Authorization, Content-Type, On-behalf-of, x-sg-elas-acl
+Access-Control-Max-Age: 600
+X-No-CORS-Reason: https://sendgrid.com/docs/Classroom/Basics/API/cors.html
+Strict-Transport-Security: max-age=600; includeSubDomains
+
+
+627c4e40d8db15dc32c7dd73
+202
+b''
+Server: nginx
+Date: Fri, 13 May 2022 00:01:04 GMT
+Content-Length: 0
+Connection: close
+X-Message-Id: 5proYbsvQLSUr5OmPNGGBA
+Access-Control-Allow-Origin: https://sendgrid.api-docs.io
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Authorization, Content-Type, On-behalf-of, x-sg-elas-acl
+Access-Control-Max-Age: 600
+X-No-CORS-Reason: https://sendgrid.com/docs/Classroom/Basics/API/cors.html
+Strict-Transport-Security: max-age=600; includeSubDomains
+
+
+627d9fc0d85ac16d0e33b945
+202
+b''
+Server: nginx
+Date: Sat, 14 May 2022 00:01:05 GMT
+Content-Length: 0
+Connection: close
+X-Message-Id: KngcfpefRiKVbD1CRDciWw
+Access-Control-Allow-Origin: https://sendgrid.api-docs.io
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Authorization, Content-Type, On-behalf-of, x-sg-elas-acl
+Access-Control-Max-Age: 600
+X-No-CORS-Reason: https://sendgrid.com/docs/Classroom/Basics/API/cors.html
+Strict-Transport-Security: max-age=600; includeSubDomains
+
+
+627ef140c9b347ee27ee5c6c

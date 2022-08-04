@@ -1,0 +1,921 @@
+2435.83
+-1
+6278d1410054fe7d347bd864
+2464.11
+0
+2445.43
+0
+2378.01
+0
+2406.79
+0
+2394.85
+0
+2413.71
+0
+2382.23
+0
+2381.42
+0
+2327.6
+0
+2299.38
+0
+2286.65
+0
+2271.03
+0
+2291.87
+0
+2275.22
+0
+2293.07
+0
+2228.69
+0
+2287.19
+0
+2312.49
+0
+2321.33
+0
+2304.43
+0
+2343.35
+0
+2404.75
+0
+2399.47
+0
+2373.43
+0
+2386.21
+0
+2373.46
+0
+2370.49
+0
+martingale is started. 
+2403.08
+0
+buy round 2
+2403.08
+2435.83
+0.986554890940665
+0.96
+martingale is started. 
+2401.84
+1
+buy round 2
+2401.84
+2435.83
+0.9860458242159758
+0.96
+martingale is started. 
+2444.42
+1
+buy round 2
+2444.42
+2435.83
+1.0035265186815172
+0.96
+martingale is started. 
+2429.12
+1
+buy round 2
+2429.12
+2435.83
+0.9972452921591408
+0.96
+martingale is started. 
+2424.83
+1
+buy round 2
+2424.83
+2435.83
+0.9954840855067882
+0.96
+martingale is started. 
+2357.26
+1
+buy round 2
+2357.26
+2435.83
+0.9677440543880321
+0.96
+martingale is started. 
+2362.56
+1
+buy round 2
+2362.56
+2435.83
+0.9699199040983977
+0.96
+martingale is started. 
+2352.52
+1
+buy round 2
+2352.52
+2435.83
+0.9657981057791389
+0.96
+martingale is started. 
+2401.6
+1
+buy round 2
+2401.6
+2435.83
+0.9859472951724874
+0.96
+martingale is started. 
+2380.0
+1
+buy round 2
+2380.0
+2435.83
+0.9770796812585444
+0.96
+martingale is started. 
+2354.65
+1
+buy round 2
+2354.65
+2435.83
+0.9666725510400973
+0.96
+martingale is started. 
+2328.84
+1
+buy round 2
+2328.84
+2435.83
+0.9560765734882977
+0.96
+martingale is started. 
+2263.22
+1
+buy round 2
+2263.22
+2435.83
+0.9291370908478834
+0.96
+martingale is started. 
+2318.84
+1
+buy round 2
+2318.84
+2435.83
+0.951971196676287
+0.96
+martingale is started. 
+2341.68
+1
+buy round 2
+2341.68
+2435.83
+0.9613478773149193
+0.96
+martingale is started. 
+2355.08
+1
+buy round 2
+2355.08
+2435.83
+0.9668490822430137
+0.96
+martingale is started. 
+2337.24
+1
+buy round 2
+2337.24
+2435.83
+0.9595250900103865
+0.96
+martingale is started. 
+2377.81
+1
+buy round 2
+2377.81
+2435.83
+0.976180603736714
+0.96
+martingale is started. 
+2360.18
+1
+buy round 2
+2360.18
+2435.83
+0.9689428244171391
+0.96
+martingale is started. 
+2354.0
+1
+buy round 2
+2354.0
+2435.83
+0.9664057015473165
+0.96
+martingale is started. 
+2380.98
+1
+buy round 2
+2380.98
+2435.83
+0.9774820081861214
+0.96
+martingale is started. 
+2294.32
+1
+buy round 2
+2294.32
+2435.83
+0.9419048127332368
+0.96
+martingale is started. 
+2314.41
+1
+buy round 2
+2314.41
+2435.83
+0.9501525147485662
+0.96
+martingale is started. 
+2381.64
+1
+buy round 2
+2381.64
+2435.83
+0.977752963055714
+0.96
+martingale is started. 
+2436.61
+1
+buy round 2
+2436.61
+2435.83
+1.000320219391337
+0.96
+martingale is started. 
+2432.92
+1
+buy round 2
+2432.92
+2435.83
+0.998805335347705
+0.96
+martingale is started. 
+2410.17
+1
+buy round 2
+2410.17
+2435.83
+0.9894656031003807
+0.96
+martingale is started. 
+2174.44
+1
+buy round 2
+2174.44
+2435.83
+0.8926895555108526
+0.96
+martingale is started. 
+2342.22
+1
+buy round 2
+2342.22
+2435.83
+0.9615695676627679
+0.96
+martingale is started. 
+2349.07
+1
+buy round 2
+2349.07
+2435.83
+0.9643817507789954
+0.96
+martingale is started. 
+2266.72
+1
+buy round 2
+2266.72
+2435.83
+0.9305739727320872
+0.96
+martingale is started. 
+2209.69
+1
+buy round 2
+2209.69
+2435.83
+0.9071610087731903
+0.96
+martingale is started. 
+2179.95
+1
+buy round 2
+2179.95
+2435.83
+0.8949516181342704
+0.96
+martingale is started. 
+2176.82
+1
+buy round 2
+2176.82
+2435.83
+0.8936666351921112
+0.96
+martingale is started. 
+2119.0
+1
+buy round 2
+2119.0
+2435.83
+0.8699293464650654
+0.96
+martingale is started. 
+2046.09
+1
+buy round 2
+2046.09
+2435.83
+0.8399970441286954
+0.96
+martingale is started. 
+2095.5
+1
+buy round 2
+2095.5
+2435.83
+0.8602817109568403
+0.96
+martingale is started. 
+2084.49
+1
+buy round 2
+2084.49
+2435.83
+0.8557616910868163
+0.96
+martingale is started. 
+2087.87
+1
+buy round 2
+2087.87
+2435.83
+0.857149308449276
+0.96
+martingale is started. 
+2150.81
+1
+buy round 2
+2150.81
+2435.83
+0.8829885501040713
+0.96
+martingale is started. 
+2104.41
+1
+buy round 2
+2104.41
+2435.83
+0.8639396016963417
+0.96
+martingale is started. 
+2048.8
+1
+buy round 2
+2048.8
+2435.83
+0.8411096012447503
+0.96
+martingale is started. 
+1970.22
+1
+buy round 2
+1970.22
+2435.83
+0.8088495502559703
+0.96
+martingale is started. 
+1900.57
+1
+buy round 2
+1900.57
+2435.83
+0.7802556007603157
+0.96
+martingale is started. 
+1834.51
+1
+buy round 2
+1834.51
+2435.83
+0.7531354815401732
+0.96
+martingale is started. 
+1844.6
+1
+buy round 2
+1844.6
+2435.83
+0.757277806743492
+0.96
+martingale is started. 
+1917.08
+1
+buy round 2
+1917.08
+2435.83
+0.7870335778769454
+0.96
+martingale is started. 
+1916.13
+1
+buy round 2
+1916.13
+2435.83
+0.7866435670798045
+0.96
+martingale is started. 
+1917.09
+1
+buy round 2
+1917.09
+2435.83
+0.7870376832537574
+0.96
+martingale is started. 
+1980.36
+1
+buy round 2
+1980.36
+2435.83
+0.813012402343349
+0.96
+martingale is started. 
+1953.43
+1
+buy round 2
+1953.43
+2435.83
+0.8019566225886043
+0.96
+martingale is started. 
+1958.27
+1
+buy round 2
+1958.27
+2435.83
+0.8039436249656174
+0.96
+martingale is started. 
+1907.35
+1
+buy round 2
+1907.35
+2435.83
+0.783039046238859
+0.96
+martingale is started. 
+2026.42
+1
+buy round 2
+2026.42
+2435.83
+0.8319217679394704
+0.96
+martingale is started. 
+1968.32
+1
+buy round 2
+1968.32
+2435.83
+0.8080695286616882
+0.96
+martingale is started. 
+2026.6
+1
+buy round 2
+2026.6
+2435.83
+0.8319956647220865
+0.96
+martingale is started. 
+1933.03
+1
+buy round 2
+1933.03
+2435.83
+0.7935816538921024
+0.96
+martingale is started. 
+1909.61
+1
+buy round 2
+1909.61
+2435.83
+0.7839668613983735
+0.96
+martingale is started. 
+1944.36
+1
+buy round 2
+1944.36
+2435.83
+0.7982330458201106
+0.96
+martingale is started. 
+1930.49
+1
+buy round 2
+1930.49
+2435.83
+0.7925388881818518
+0.96
+martingale is started. 
+1913.25
+1
+buy round 2
+1913.25
+2435.83
+0.7854612185579454
+0.96
+martingale is started. 
+1926.23
+1
+buy round 2
+1926.23
+2435.83
+0.7907899976599353
+0.96
+martingale is started. 
+1959.51
+1
+buy round 2
+1959.51
+2435.83
+0.8044526916903069
+0.96
+martingale is started. 
+2012.84
+1
+buy round 2
+2012.84
+2435.83
+0.8263466662287599
+0.96
+martingale is started. 
+2019.71
+1
+buy round 2
+2019.71
+2435.83
+0.8291670600986112
+0.96
+martingale is started. 
+2068.26
+1
+buy round 2
+2068.26
+2435.83
+0.8490986645209232
+0.96
+martingale is started. 
+2098.94
+1
+buy round 2
+2098.94
+2435.83
+0.8616939605801719
+0.96
+martingale is started. 
+2089.68
+1
+buy round 2
+2089.68
+2435.83
+0.8578923816522499
+0.96
+martingale is started. 
+2107.99
+1
+buy round 2
+2107.99
+2435.83
+0.8654093265950414
+0.96
+martingale is started. 
+2093.47
+1
+buy round 2
+2093.47
+2435.83
+0.8594483194640019
+0.96
+martingale is started. 
+2048.08
+1
+buy round 2
+2048.08
+2435.83
+0.8408140141142855
+0.96
+martingale is started. 
+2068.88
+1
+buy round 2
+2068.88
+2435.83
+0.8493531978832678
+0.96
+martingale is started. 
+2076.81
+1
+buy round 2
+2076.81
+2435.83
+0.8526087616951922
+0.96
+martingale is started. 
+2097.68
+1
+buy round 2
+2097.68
+2435.83
+0.8611766831018585
+0.96
+martingale is started. 
+2114.95
+1
+buy round 2
+2114.95
+2435.83
+0.868266668856201
+0.96
+martingale is started. 
+2119.67
+1
+buy round 2
+2119.67
+2435.83
+0.87020440671147
+0.96
+martingale is started. 
+2127.79
+1
+buy round 2
+2127.79
+2435.83
+0.8735379726828227
+0.96
+martingale is started. 
+2127.7
+1
+buy round 2
+2127.7
+2435.83
+0.8735010242915145
+0.96
+martingale is started. 
+2093.99
+1
+buy round 2
+2093.99
+2435.83
+0.8596617990582265
+0.96
+martingale is started. 
+2067.37
+1
+buy round 2
+2067.37
+2435.83
+0.848733285984654
+0.96
+martingale is started. 
+2052.45
+1
+buy round 2
+2052.45
+2435.83
+0.8426080637811341
+0.96
+martingale is started. 
+2076.26
+1
+buy round 2
+2076.26
+2435.83
+0.8523829659705318
+0.96
+martingale is started. 
+2065.06
+1
+buy round 2
+2065.06
+2435.83
+0.8477849439410796
+0.96
+martingale is started. 
+2046.58
+1
+buy round 2
+2046.58
+2435.83
+0.8401982075924839
+0.96
+martingale is started. 
+2076.99
+1
+buy round 2
+2076.99
+2435.83
+0.8526826584778083
+0.96
+martingale is started. 
+2058.37
+1
+buy round 2
+2058.37
+2435.83
+0.8450384468538444
+0.96
+martingale is started. 
+2009.7
+1
+buy round 2
+2009.7
+2435.83
+0.8250575779097885
+0.96
+martingale is started. 
+2038.7
+1
+buy round 2
+2038.7
+2435.83
+0.8369631706646194
+0.96
+martingale is started. 
+2060.88
+1
+buy round 2
+2060.88
+2435.83
+0.8460688964336592
+0.96
+martingale is started. 
+2047.03
+1
+buy round 2
+2047.03
+2435.83
+0.8403829495490244
+0.96
+martingale is started. 
+2054.4
+1
+buy round 2
+2054.4
+2435.83
+0.8434086122594763
+0.96
+martingale is started. 
+2022.47
+1
+buy round 2
+2022.47
+2435.83
+0.8303001440987261
+0.96
+martingale is started. 
+2036.01
+1
+buy round 2
+2036.01
+2435.83
+0.8358588243021886
+0.96
+martingale is started. 
+2042.46
+1
+buy round 2
+2042.46
+2435.83
+0.8385067923459355
+0.96
+martingale is started. 
+2031.95
+1
+buy round 2
+2031.95
+2435.83
+0.8341920413165123
+0.96
+martingale is started. 
+2042.01
+1
+buy round 2
+2042.01
+2435.83
+0.838322050389395
+0.96
+martingale is started. 
+2028.3
+1
+buy round 2
+2028.3
+2435.83
+0.8326935787801283
+0.96
+martingale is started. 
+2014.1
+1
+buy round 2
+2014.1
+2435.83
+0.8268639437070732
+0.96
+martingale is started. 
+1984.2
+1
+buy round 2
+1984.2
+2435.83
+0.8145888670391612
+0.96
+martingale is started. 
+1985.22
+1
+buy round 2
+1985.22
+2435.83
+0.8150076154739864
+0.96
+martingale is started. 
+1962.68
+1
+buy round 2
+1962.68
+2435.83
+0.8057540961397143
+0.96
+martingale is started. 
+1972.74
+1
+buy round 2
+1972.74
+2435.83
+0.809884105212597
+0.96
+martingale is started. 
+1963.68
+1
+buy round 2
+1963.68
+2435.83
+0.8061646338209153
+0.96
+martingale is started. 
+2008.29
+1
+buy round 2
+2008.29
+2435.83
+0.824478719779295
+0.96
+martingale is started. 
+2018.53
+1
+buy round 2
+2018.53
+2435.83
+0.8286826256347939
+0.96
+martingale is started. 
+2013.96
+1
+buy round 2
+2013.96
+2435.83
+0.826806468431705
+0.96
+martingale is started. 
+1996.88
+1
+buy round 2
+1996.88
+2435.83
+0.8197944848367908
+0.96
+martingale is started. 
+1986.61
+1
+buy round 2
+1986.61
+2435.83
+0.8155782628508558
+0.96

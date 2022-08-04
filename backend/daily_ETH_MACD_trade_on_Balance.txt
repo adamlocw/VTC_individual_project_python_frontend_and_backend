@@ -1,0 +1,585 @@
+Current price is 1993.08
+
+2022-05-18 22:04:06.666687
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+1992.01
+0.0
+0.0
+Current price is 1995.23
+
+2022-05-18 22:06:08.490639
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+1995.3
+0.05006765899864682
+0.05007
+Current price is 1955.26
+
+2022-05-18 23:57:57.765178
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+202
+b''
+Server: nginx
+Date: Wed, 18 May 2022 15:58:00 GMT
+Content-Length: 0
+Connection: close
+X-Message-Id: MdjSr1jYQjmpcWFnm8fFtg
+Access-Control-Allow-Origin: https://sendgrid.api-docs.io
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Authorization, Content-Type, On-behalf-of, x-sg-elas-acl
+Access-Control-Max-Age: 600
+X-No-CORS-Reason: https://sendgrid.com/docs/Classroom/Basics/API/cors.html
+Strict-Transport-Security: max-age=600; includeSubDomains
+
+
+Current price is 1953.61
+
+2022-05-18 23:58:39.598358
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+202
+b''
+Server: nginx
+Date: Wed, 18 May 2022 15:58:42 GMT
+Content-Length: 0
+Connection: close
+X-Message-Id: 2C2FM-E0TyWOSFMnidc4bA
+Access-Control-Allow-Origin: https://sendgrid.api-docs.io
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Authorization, Content-Type, On-behalf-of, x-sg-elas-acl
+Access-Control-Max-Age: 600
+X-No-CORS-Reason: https://sendgrid.com/docs/Classroom/Basics/API/cors.html
+Strict-Transport-Security: max-age=600; includeSubDomains
+
+
+Current price is 1955.44
+
+2022-05-19 00:00:48.787407
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1945.19
+
+2022-05-19 00:14:12.541979
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1914.35
+
+2022-05-19 08:00:05.794866
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 2019.59
+
+2022-05-20 08:00:05.169384
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1959.09
+
+2022-05-21 08:00:04.922010
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1974.8
+
+2022-05-22 08:00:05.086218
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 2043.19
+
+2022-05-23 08:00:05.174034
+
+MACD sell signal is 	False
+MACD buy signal is 		True
+
+202
+b''
+Server: nginx
+Date: Mon, 23 May 2022 00:00:08 GMT
+Content-Length: 0
+Connection: close
+X-Message-Id: mzECN9jATHWzh3o2F71psA
+Access-Control-Allow-Origin: https://sendgrid.api-docs.io
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Authorization, Content-Type, On-behalf-of, x-sg-elas-acl
+Access-Control-Max-Age: 600
+X-No-CORS-Reason: https://sendgrid.com/docs/Classroom/Basics/API/cors.html
+Strict-Transport-Security: max-age=600; includeSubDomains
+
+
+Current price is 1973.33
+
+2022-05-24 08:00:03.404459
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1979.06
+
+2022-05-25 08:00:03.777987
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1942.64
+
+2022-05-26 08:00:04.397935
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1791.41
+
+2022-05-27 08:00:04.719263
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1727.35
+
+2022-05-28 08:00:04.482058
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1792.25
+
+2022-05-29 08:00:04.911735
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1813.43
+
+2022-05-30 08:00:04.501447
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1999.4
+
+2022-05-31 08:00:04.580136
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1941.91
+
+2022-06-01 08:00:04.307036
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1817.95
+
+2022-06-02 08:00:04.976609
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1834.08
+
+2022-06-03 08:00:04.832320
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1775.12
+
+2022-06-04 08:00:04.838132
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1804.57
+
+2022-06-05 08:00:04.919345
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1806.03
+
+2022-06-06 08:00:04.400335
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1859.98
+
+2022-06-07 08:00:04.713851
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1813.36
+
+2022-06-08 08:00:05.526361
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1792.09
+
+2022-06-09 08:00:05.404001
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1788.8
+
+2022-06-10 08:00:04.760680
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1662.91
+
+2022-06-11 08:00:04.692567
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1532.88
+
+2022-06-12 08:00:04.591407
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1434.31
+
+2022-06-13 08:00:03.975560
+
+MACD sell signal is 	True
+MACD buy signal is 		False
+
+202
+b''
+Server: nginx
+Date: Mon, 13 Jun 2022 00:00:07 GMT
+Content-Length: 0
+Connection: close
+X-Message-Id: 7UqA1S47RnKG1SWiTylhSw
+Access-Control-Allow-Origin: https://sendgrid.api-docs.io
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Authorization, Content-Type, On-behalf-of, x-sg-elas-acl
+Access-Control-Max-Age: 600
+X-No-CORS-Reason: https://sendgrid.com/docs/Classroom/Basics/API/cors.html
+Strict-Transport-Security: max-age=600; includeSubDomains
+
+
+Current price is 1208.59
+
+2022-06-14 08:00:04.240558
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1208.73
+
+2022-06-15 08:00:04.979169
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1237.38
+
+2022-06-16 08:00:07.781809
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1068.42
+
+2022-06-17 08:00:07.043709
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1087.0
+
+2022-06-18 08:00:07.423879
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1149.04
+
+2022-06-24 08:08:04.580840
+
+MACD sell signal is 	False
+MACD buy signal is 		True
+
+202
+b''
+Server: nginx
+Date: Fri, 24 Jun 2022 00:08:07 GMT
+Content-Length: 0
+Connection: close
+X-Message-Id: KwHypBB4SS-Uzie2t8bzww
+Access-Control-Allow-Origin: https://sendgrid.api-docs.io
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Authorization, Content-Type, On-behalf-of, x-sg-elas-acl
+Access-Control-Max-Age: 600
+X-No-CORS-Reason: https://sendgrid.com/docs/Classroom/Basics/API/cors.html
+Strict-Transport-Security: max-age=600; includeSubDomains
+
+
+Current price is 1224.97
+
+2022-06-25 08:00:04.533653
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1242.2
+
+2022-06-26 08:00:04.753731
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1197.77
+
+2022-06-27 08:00:04.607898
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1191.89
+
+2022-06-28 08:00:07.821360
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1143.79
+
+2022-06-29 08:00:08.764903
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1100.2
+
+2022-06-30 08:00:07.448562
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1070.87
+
+2022-07-01 08:00:07.046278
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1059.82
+
+2022-07-02 08:00:07.081342
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1067.17
+
+2022-07-03 08:00:07.795668
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1074.2
+
+2022-07-04 08:00:07.147037
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1151.11
+
+2022-07-05 08:00:07.190286
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1133.0
+
+2022-07-06 08:00:08.035847
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1186.71
+
+2022-07-07 08:00:08.601090
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1237.76
+
+2022-07-08 08:00:08.532153
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1213.87
+
+2022-07-09 08:00:08.227081
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1217.18
+
+2022-07-10 08:00:08.448654
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1168.27
+
+2022-07-11 08:00:07.848405
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1096.3
+
+2022-07-12 08:00:08.493345
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1038.52
+
+2022-07-13 08:00:07.943664
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1114.85
+
+2022-07-14 08:00:08.380212
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1193.36
+
+2022-07-15 08:00:08.103314
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1231.16
+
+2022-07-16 08:00:09.642059
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1521.3
+
+2022-07-21 08:00:08.013963
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1575.17
+
+2022-07-22 08:00:07.882933
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1534.68
+
+2022-07-23 08:00:07.110024
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1548.91
+
+2022-07-24 08:00:07.282175
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1597.7
+
+2022-07-25 08:00:06.830164
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1440.45
+
+2022-07-26 08:00:07.363891
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1449.59
+
+2022-07-27 08:00:07.712733
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1631.09
+
+2022-07-28 08:07:24.512864
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1724.94
+
+2022-07-29 08:00:04.292085
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1721.81
+
+2022-07-30 08:00:04.083907
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1697.23
+
+2022-07-31 08:00:04.242057
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
+Current price is 1677.86
+
+2022-08-01 08:00:04.862066
+
+MACD sell signal is 	False
+MACD buy signal is 		False
+
